@@ -87,6 +87,8 @@ a.logo-wrapper {
 
 form.main-search-wrapper {
     margin: 10px auto;
+    display: inline-block;
+    width: 100%;
 }
 
 form.main-search-wrapper input {
